@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "prometheus-wms",
-    "slug": "prometheus-wms",
+    "name": "xagro",
+    "slug": "xagro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "xagro",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
